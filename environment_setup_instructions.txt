@@ -1,0 +1,15 @@
+To initially setup your environment, run (without `):
+
+`source setup_environment.sh`
+
+Your environment "AWSenv" will be created and automatically activated. 
+
+If you want to use this environment in the future, then run
+
+`conda activate AWSenv`
+
+Then open your Jupyter notebook from the active environment using
+
+`jupyter lab`
+
+In the terminal
